@@ -1,4 +1,4 @@
-# ZenithFi: Autonomous DeFi Optimization (Base Mainnet)
+# ZenithFi: Autonomous DeFi Optimization
 
 **ZenithFi** is a next-generation decentralized finance (DeFi) portfolio optimizer that bridges AI-driven market intelligence with non-custodial on-chain execution. It enables users to deploy a personal **ZenithFi AI Agent** that scans the **Base Mainnet** ecosystem for yield opportunities and registers "Intents" to autonomously improve portfolio performance.
 
